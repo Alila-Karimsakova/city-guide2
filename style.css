@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  background-color: #fff0f5;
+  color: #4a3040;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3 {
+  color: #4a3040;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+.accent {
+  color: #d66a98;
+}
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+.hero-label {
+  font-size: 18px;
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+}
+
+.site-header {
+  background-color: #ffffff;
+
+  padding: 20px;
+}
+
+.menu a {
+  color: #d66a98;
+
+  margin-right: 20px;
+}
+.button {
+  display: inline-block;
+
+  background-color: #d66a98;
+
+  color: #ffffff;
+
+  padding: 12px 24px;
+
+  border-radius: 12px;
+
+  text-decoration: none;
+}
+
+.button-outline {
+  background-color: #ffffff;
+
+  color: #d66a98;
+
+  border: 2px solid #d66a98;
+}
+
+.hero {
+  background-color: #ffe4ee;
+
+  padding: 40px;
+
+  text-align: center;
+}
+
+.places {
+  padding: 30px;
+}
+
+.card {
+  width: 100%;
+
+  box-sizing: border-box;
+
+  background-color: #ffffff;
+
+  padding: 20px;
+
+  border: 2px solid #d66a98;
+
+  border-radius: 15px;
+
+  margin-bottom: 20px;
+}
+
+.card-icon {
+  font-size: 36px;
+}
+
+.card h3 {
+  margin-top: 10px;
+
+  margin-bottom: 10px;
+}
+
+.card-info {
+  font-size: 16px;
+
+  font-weight: bold;
+
+  color: #d66a98;
+}
+
+.tips {
+  padding: 30px;
+}
+
+.site-footer {
+  background-color: #ffe4ee;
+
+  color: #4a3040;
+
+  padding: 20px;
+
+  text-align: center;
+}
+.note {
+  background-color: #ffe4ee;
+  padding: 15px;
+  border-left: 4px solid #d66a98;
+}
+.card-top {
+  background-color: #ffe4ee;
+  border: 2px solid #d66a98;
+}
