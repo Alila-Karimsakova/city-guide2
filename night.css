@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  background-color: #1e1725;
+  color: #f5eaf2;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3 {
+  color: #f5eaf2;
+}
+
+.accent {
+  color: #f4a6c8;
+}
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+.hero-label {
+  font-size: 18px;
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+}
+
+.site-header {
+  background-color: #302438;
+
+  padding: 20px;
+}
+
+.menu a {
+  color: #f4a6c8;
+
+  margin-right: 20px;
+}
+.button {
+  display: inline-block;
+
+  background-color: #f4a6c8;
+
+  color: #ffffff;
+
+  padding: 12px 24px;
+
+  border-radius: 12px;
+
+  text-decoration: none;
+}
+
+.button-outline {
+  background-color: #302438;
+
+  color: #f4a6c8;
+
+  border: 2px solid #f4a6c8;
+}
+
+.hero {
+  background-color: #ffe4ee;
+
+  padding: 40px;
+
+  text-align: center;
+}
+
+.places {
+  padding: 30px;
+}
+
+.card {
+  width: 100%;
+
+  box-sizing: border-box;
+
+  background-color: #ffffff;
+
+  padding: 20px;
+
+  border: 2px solid #f4a6c8;
+
+  border-radius: 15px;
+
+  margin-bottom: 20px;
+}
+
+.card-icon {
+  font-size: 36px;
+}
+
+.card h3 {
+  margin-top: 10px;
+
+  margin-bottom: 10px;
+}
+
+.card-info {
+  font-size: 16px;
+
+  font-weight: bold;
+
+  color: #f4a6c8;
+}
+
+.tips {
+  padding: 30px;
+}
+
+.site-footer {
+  background-color: #392b42;
+
+  color: #f5eaf2;
+
+  padding: 20px;
+
+  text-align: center;
+}
+.note {
+  background-color: #392b42;
+  padding: 15px;
+  border-left: 4px solid #f4a6c8;
+}
+.card-top {
+  background-color: #ffe4ee;
+  border: 2px solid #f4a6c8;
+}
